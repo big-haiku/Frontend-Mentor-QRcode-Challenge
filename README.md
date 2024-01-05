@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Git Repo: (https://github.com/big-haiku/Frontend-Mentor-QRcode-Challenge)
+- Live Site URL: (https://big-haiku.github.io/Frontend-Mentor-QRcode-Challenge/)
 
 ## My process
 
